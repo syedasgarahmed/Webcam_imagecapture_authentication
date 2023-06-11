@@ -8,3 +8,6 @@ When you run program the screen will be visible with buttons
  3. stop camera
  4. submit otp
 when you clicks start camera the camera will start previwing and OTP will be send to email id.
+
+
+# read the document to create Gmail Api (credentials.json)
